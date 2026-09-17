@@ -1,6 +1,6 @@
 # Hi, I'm Pramod 👋  
 
-Incoming Intern @ Axis Bank 🏦  
+Data science Engineer@ Axis Bank 🏦  
 Final Year Dual Degree Student @ IIT (ISM) Dhanbad  
 Software Engineer | Data & Analytics | Problem Solving  
 
